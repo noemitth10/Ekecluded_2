@@ -18,3 +18,16 @@ A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta
 - Grafikai elemek megtervezése
 - Egyértelmű felhasználói felület megtervezése és létrehozása
 - Adatbázis megtervezése és megvalósítása
+
+| Modul       | Id | Név                    | Leírás                                           |
+|:-----------:|:--:|:----------------------:|:------------------------------------------------:|
+| Dizájn      | D1 | Grafikai elemek        | Grafikai elemek megtervezése és elkészítése      |
+| Dizájn      | D2 | Felhasználói felület   | Felhasználói felület megtervezése és létrehozása |
+| Dizájn      | D3 | Páya tervezés          | Pálya megtervezése és megvalósítása              |
+| Játékmenet  | J1 | Irányítás              | Mozgatás implementálása                          |
+| Játékmenet  | J2 | Pontozási rendszer     | Pontozási rendszer megvalósítása                 |
+| Játékmenet  | J3 | Random pont generálás  | Random pont generálása a képernyőre              |
+| Játékmenet  | J4 | Ellenség mozgása       | Ellenségek mozgásának megvalósítása              |
+| Játékmenet  | J5 | Játék mechanikák       | Játékmechanikák megtervezése és létrehozása      |
+| Adatbázis   | A1 | Adatbázis megtervezése | Adatbázis megtervezése és létrehozása            |
+| Adatbázis   | A2 | Adatbázis kapcsolat    | Adatbázis kapcsolat létrehozása a játékban       |
