@@ -40,7 +40,12 @@ A mai Pac-Man játékok nem használják ki a modern számítógépek nyújtotta
 # Igényelt üzleti folyamatok modellje
 
 # Követelménylista
-
+## Funkcionális:
+- Mozgatás megtervezése és létrehozása
+- Pontozási rendszer megtervezése és létrehozása
+- Random pont generálása képernyőre
+- Ellenség mozgása
+- Játék mechanikák
 # Irányított ás szabad szöveges ripotok szövege
 
 # Fogalomszótár
