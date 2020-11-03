@@ -30,6 +30,11 @@ Az alkalmazásnak megfelelően kell működnie és megjelennie a következő ope
 - Windows 7
 - Windows 8
 - Windows 10
+## Minimum gépigény
+- CPU: Intel Core i5
+- RAM: 8 GB RAM
+- GPU: NVIDIA GeForce 920M
+- Tárhely: 1 GB
 # Jelenlegi üzleti folyamatok modellje
 
 # Igényelt üzleti folyamatok modellje
