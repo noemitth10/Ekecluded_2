@@ -13,6 +13,11 @@ A Pac-Man a Namco játéka, amelyet 1980-ban adtak ki a játéktermekbe, és ké
 # Vágyálom rendszer
 
 # A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
+Számítógépes aplikációként a következő szabványok vonatkoznak ránk.
+## Általános szabványok
+- Muszáj könnyen használhatónak lenni a célközönség számára.
+- Logikusan kell működnie a célközönség számára.
+- Haszálnia kell az iparág legjobb gyakorlatait.
 
 # Jelenlegi üzleti folyamatok modellje
 
