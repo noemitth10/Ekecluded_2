@@ -46,6 +46,11 @@ A mai Pac-Man játékok nem használják ki a modern számítógépek nyújtotta
 - Random pont generálása képernyőre
 - Ellenség mozgása
 - Játék mechanikák
+## Nem funkcionális:
+- Pálya megtervezése
+- Grafikai elemek megtervezése
+- Egyértelmű felhasználói felület megtervezése és létrehozása
+- Adatbázis megtervezése és megvalósítása
 # Irányított ás szabad szöveges ripotok szövege
 
 # Fogalomszótár
