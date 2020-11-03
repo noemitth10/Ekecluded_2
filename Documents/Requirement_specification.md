@@ -66,3 +66,12 @@ A mai Pac-Man játékok nem használják ki a modern számítógépek nyújtotta
 # Irányított ás szabad szöveges ripotok szövege
 
 # Fogalomszótár
+- Namco: Japán játékfejlesztői cég volt az 1980-as években.
+- Unity: Vieójáték-motor aminek segítségével háromdimenziós illetve kétdimenziós videójátékokat, ezen kívül egyéb interaktív jellegű tartalmakat lehet létrehozni.
+- C Sharp: Programozási nyelv.
+- Unity Editor: Fejlesztői környezet.
+- Microsoft Visual Studio: Fejlesztői környezet.
+- Windows 7/8/10: Operációs rendszer és annak generációi.
+- CPU: Processzor
+- RAM: Memória
+- GPU: Videókártya
