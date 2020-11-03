@@ -25,6 +25,11 @@ Az alkalmazás a következő(vagy fejlettebb) technológíákat használja:
 Ajánlott fejlesztői környezet:
 - Unity Editor
 - Microsoft Visual Studio 2017 15.9.11
+## Minimum szabványok
+Az alkalmazásnak megfelelően kell működnie és megjelennie a következő operácós rendszereken:
+- Windows 7
+- Windows 8
+- Windows 10
 # Jelenlegi üzleti folyamatok modellje
 
 # Igényelt üzleti folyamatok modellje
