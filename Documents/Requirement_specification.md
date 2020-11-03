@@ -18,7 +18,13 @@ Számítógépes aplikációként a következő szabványok vonatkoznak ránk.
 - Muszáj könnyen használhatónak lenni a célközönség számára.
 - Logikusan kell működnie a célközönség számára.
 - Haszálnia kell az iparág legjobb gyakorlatait.
-
+## Fejlesztési technológia, Programozási nyelv
+Az alkalmazás a következő(vagy fejlettebb) technológíákat használja:
+- Unity
+- C Sharp 8.0
+Ajánlott fejlesztői környezet:
+- Unity Editor
+- Microsoft Visual Studio 2017 15.9.11
 # Jelenlegi üzleti folyamatok modellje
 
 # Igényelt üzleti folyamatok modellje
