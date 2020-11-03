@@ -51,6 +51,7 @@ A mai Pac-Man játékok nem használják ki a modern számítógépek nyújtotta
 - Grafikai elemek megtervezése
 - Egyértelmű felhasználói felület megtervezése és létrehozása
 - Adatbázis megtervezése és megvalósítása
+
 | Modul       | Id | Név                    | Leírás                                           |
 |:-----------:|:--:|:----------------------:|:------------------------------------------------:|
 | Dizájn      | D1 | Grafikai elemek        | Grafikai elemek megtervezése és elkészítése      |
@@ -63,6 +64,7 @@ A mai Pac-Man játékok nem használják ki a modern számítógépek nyújtotta
 | Játékmenet  | J5 | Játék mechanikák       | Játékmechanikák megtervezése és létrehozása      |
 | Adatbázis   | A1 | Adatbázis megtervezése | Adatbázis megtervezése és létrehozása            |
 | Adatbázis   | A2 | Adatbázis kapcsolat    | Adatbázis kapcsolat létrehozása a játékban       |
+
 # Irányított ás szabad szöveges ripotok szövege
 
 # Fogalomszótár
