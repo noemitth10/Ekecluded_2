@@ -31,3 +31,6 @@ A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta
 | Játékmenet  | J5 | Játék mechanikák       | Játékmechanikák megtervezése és létrehozása      |
 | Adatbázis   | A1 | Adatbázis megtervezése | Adatbázis megtervezése és létrehozása            |
 | Adatbázis   | A2 | Adatbázis kapcsolat    | Adatbázis kapcsolat létrehozása a játékban       |
+
+#Használati esetek
+A felhasználók a jéték indítása után a főmenübe kerülnek, ahol több lehetőségük van, a legelső lehetőség a játék indítása ami után a felhasználónak egy nevet kell megadnia, ha a nev megadásra került akkor a játékmenet indításra kész. A főmenüben továbbá megnézhetjük a legjobb elért pontszámokat, ezt úgy tehetjük meg ha a Ranglista menüpontott választjuk, ezenfelül lehetőségünk van a kilépésre a Kilépés gomb használatával.
