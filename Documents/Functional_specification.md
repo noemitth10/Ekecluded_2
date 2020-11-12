@@ -46,8 +46,9 @@ A játék indítása opció választása után a játékmenet kezdetét veszi, e
 A ranglista opció választása esetén, a program betölti a legjobb tíz elmentett pontszámot az adatbázisból, ezáltal megnézhető, hogy mennyi az elért legjobb tíz pontszám. Ebben a menüpontban lehetőség van a vissza lépés a főmenöben opció választására, ezáltal a felhasználó vissza kerül a főmenübe.
 ## Kilépés:
 A kilépés opciót választva a program futása befejeződik, ezáltal a felhasználó vissza kerül az asztalára.
-#Funkció-követelmény megfeleltetés
+# Funkció-követelmény megfeleltetés
 # Fogalomszótár
 - Namco: Japán játékfejlesztői cég volt az 1980-as években.
 - Unity: Vieójáték-motor aminek segítségével háromdimenziós illetve kétdimenziós videójátékokat, ezen kívül egyéb interaktív jellegű tartalmakat lehet létrehozni.
 - Power-up: Videójátékokban felvehető segítség, amivel a karakterünk valamilyen módon erősebb lesz. Például: gyorsabb mozgásra képes.
+- Microsoft Windows: a Microsoft Corporation gyártotta operációs rendszer.
