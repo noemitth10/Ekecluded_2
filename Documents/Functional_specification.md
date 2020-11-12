@@ -32,5 +32,11 @@ A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta
 | Adatbázis   | A1 | Adatbázis megtervezése | Adatbázis megtervezése és létrehozása            |
 | Adatbázis   | A2 | Adatbázis kapcsolat    | Adatbázis kapcsolat létrehozása a játékban       |
 
-#Használati esetek
+# Használati esetek
 A felhasználók a jéték indítása után a főmenübe kerülnek, ahol több lehetőségük van, a legelső lehetőség a játék indítása ami után a felhasználónak egy nevet kell megadnia, ha a nev megadásra került akkor a játékmenet indításra kész. A főmenüben továbbá megnézhetjük a legjobb elért pontszámokat, ezt úgy tehetjük meg ha a Ranglista menüpontott választjuk, ezenfelül lehetőségünk van a kilépésre a Kilépés gomb használatával.
+
+# Forgató könyvek
+## Főmenü:
+A játék indítása után a főmenübe tölt a program, ahol a felhasználó választhat a játék indítása, ranglista, kilépés opciók közül. A játék indítása opció választása után a játék kezdetét veszi. Ranglista opció választása esetén megnezhetjük a tíz legjobb elért pontszámot. Kilépés opciót választva a program futása befejeződik.
+## Játékmenet:
+A játék indítása opció választása után a játékmenet kezdetét veszi, először egy nevet kell megadnia a felhasználónak, ennek segítségével felkerülhet a ranglistára ha elegendő pontszámot ér el. A játékmenet egyszerű, a karakterünket irányítva kell a pályán navigálni úgy, hogy minnél több pontot tudjuk felvenni, miközben az ellenséget elkerüljük, vagy power-up segítségével elkapjuk őket. Ha a pályán lévő összes elhelyezett pontot felvettük, akkor a program ezeket vissza helyezei, ezáltal a játék folytatódhat az előzőleg leírt módon. Ha a szellemeket nem sikerül elkerülni, akkor a három életből egyet elveszít a felhasználó, ezen pontok elvesztése után véget ér a játékmenet. Ebben az esetben a felhasználó választhat a játék befejezése és új játék kezdése opciók közül. Játék befejezése opció választása esetén a pontszáma mentésre kerül ha jobb mint a legjobb tíz elért pontszám. Új játék kezdése opció esetén a játékmenet újra indul, a karakter és az ellenség a kezdő pozícióba kerül, a pontszám pedig nullázásra kerül.
