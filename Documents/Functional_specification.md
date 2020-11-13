@@ -4,6 +4,19 @@ A rendszer célja a szórakoztatás, amit egy a Unity játékmotor segítségév
 A Pac-Man a Namco játéka, amelyet 1980-ban adtak ki a játéktermekbe, és később különféle platformokra. Igazi klasszikussá vált, a világ egyik legismertebb játéka. A játék egy labirintusban játszódik, amelyben egy kis sárga fejet kell irányítani. A cél az, hogy a pontokat megegye, és elkerülje a négy szellem ellenséget, amelyek el akarják kapni Pac-Man-t. Már a bemutatásánál nagyon népszerű játék lett. Ebből adódóan az emberek többsége szívesen játszana egy új, modernebb verzióval, Ezen felül a fiatalabb korosztályok is megismerkedhetnek a Pac-Man fantasztikus világával.
 # Vágyálomrendszer
 A projekt célja egy 3D Pac-man megvalósítása, amely a felhasználók kikapcsolódását segít elő. Az alkalmazás Windows operációs rendszereken lesz elérhető. Az alkalmazás elindítása után egy színes menü oldal tárul a felhasználó elé, a menü oldalon történő navigáció egszerű a felhasználó élmények javítása érdekében. A menüben egy játék, egy toplista, egy shop és egy beállítások fül elérhető. A játék lehetőséget nyújtani a felhasználók teljesítményének tárolására (toplista), ennek segítségével másokkal is összemérhetik ügyességüket. A játék során elért pontjainkat fel tudják használni a gyüjthető kinézeti elemek megvásárlására, ezek a gyüjthető elemek cserélhetőek, hogy a saját karakterük kinézetét egyedivé tehessék vagy akár más pálya kinézettekkel is játszhassanak. A gyüjthető elemek sapkák különböző arcok és pálya kinézetek, amelyeket a shop-ban lehet megvenni a játékban szerzett pontokból, az értékük eltérő. A pontszámokat egy adatbázisban tárolja a rendszer, amelyben az adatfeltöltés során a játékosok saját nevet adhatnak meg, ideális esetben a felhasználók álltal megadott nevek egyediek lesznek, ezáltal az adatbázisban nem láthatjuk kétszer ugyan azt a nevet. A játék közben különböző power up-okat gyüjtenek mint például a gyorítás vagy akár a ghostokat is meg lehet majd enni ezek segítségével, a pálya ülönböző részein lesznek véletlenül elhelyezve. Pontokat minden megevett coin vagy ghost után fognak kapni a játékosok, a cél az összes pont összegyüjtése a ghostokat elkerülve.
+# A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása
+Számítógépes aplikációként a következő szabványok vonatkoznak ránk.
+## Általános szabványok
+- Muszáj könnyen használhatónak lenni a célközönség számára.
+- Logikusan kell működnie a célközönség számára.
+- Haszálnia kell az iparág legjobb gyakorlatait.
+## Fejlesztési technológia, Programozási nyelv
+Az alkalmazás a következő(vagy fejlettebb) technológíákat használja:
+- Unity
+- C Sharp 8.0
+Ajánlott fejlesztői környezet:
+- Unity Editor
+- Microsoft Visual Studio 2017 15.9.11
 # Jelenlegi üzleti folyamatok modellje
 A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta lehetőségeket. Jelenleg sokan csak 2D-s változatát ismerik. A mai grafikus motorokkal már 3D-s változatot is lehet készíteni mely nagy előrelépés lenne a felhasználók élményeinek javításában.
 # Igényelt üzleti folyamatok modellje
