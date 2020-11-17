@@ -36,8 +36,7 @@ Az alkalmazásnak megfelelően kell működnie és megjelennie a következő ope
 - GPU: NVIDIA GeForce 920M
 - Tárhely: 1 GB
 # Jelenlegi üzleti folyamatok modellje
-A mai Pac-Man játékok nem használják ki a modern számítógépek nyújtotta lehetőségeket. Jelenleg sokan csak 2D-s változatát ismerik. A mai grafikus motorokkal már 3D-s változatot is lehet készíteni mely nagy előrelépés lenne a felhasználók élményeinek javításában.
-# Igényelt üzleti folyamatok modellje
+A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta lehetőségeket. Jelenleg sokan csak a régi 2D-s változatával játszanak amely manapság már elavultnak számít. Egy letisztultabb 3D-s változat nagyban javítaná a felhasználók játékélményét ezáltal nagyobb kikapcsolódást nyújtana a játék miként könnyebben megszabadulnának a mindennapi stressz okozta nyomástól. Mindemellet barátságos versengések is kialakulhatnak a felhasználók között, hogy ki is lehessen a ranglétra tetején.# Igényelt üzleti folyamatok modellje
 ![Üzleti folyamatok modellje](req_b_model.png)
 # Követelménylista
 ## Funkcionális:
