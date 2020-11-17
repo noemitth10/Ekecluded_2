@@ -29,6 +29,16 @@ C: Kevésbé fontos
 - Rendszerhez szükséges adatbázis megtervezése és kapcsolat létrehozása.
 - Dokumentáció megírása.
 - Tesztelés/Javítás
+# Követelmények
+Fontos lenne, ha lenne egy igényesen elkészített főmenü, ami több opciót is tartalmaz. A Főmenüből lehessen elkezdeni a játékmenetet a játék indítás gombbal, ezentúl a főmenüből legyen elérhető a ranglista is, amit a Ranglista opció kiválasztásával érhetünk el, Továbbá a főmenüben legyen lehetőség a kilépésre, egy Kilépés opció segítségével. Fontos lenne az is, hogy a játékmenet élvezhető, nosztalgikus legyen, izlésesen elkészített grafikai elemekkel. Fontos lenne az is, hogy az ellenség megfelően mozogjon a pályán, illetve megfelően reagáljon a játékossal érintkezik. A játékossal való érintkezés kétféleképpen történhet, az egyik a megszokott életvesztéssel jár, viszont a másik esetben a felhasználó legyőzheti az ellenségeket amiért pont is jár, ezt akkor tudja megtenni ha vett fel power-upot. A power-up-ok pályán való megjelenése bizonyos időközönként történjen, véletlenszerű helyeken. Ezenfelül az is fontos, hogy a játékmenet elbukásánál a program felajánljon választási lehetőségeket arra, hogy új játékot kezd a felhasználó vagy kilép a főmenübe. Fontos lenne az is, hogy a ranglistan csak a legjobb tíz elért pontszám jelenjen meg rangsorolva. A ranglistán szerepelhet ugyanaz a felhasználó többször is. A ranglistán kell legyen egy vissza lépés a főmenübe opció amely kiválasztásával a felhasználó a főmenübe kerül. Fontos lenne továbba az, hogy a kilépés opció választásával a program rákérdezzen arra, hogy a felhasználó biztosan ki akar-e lépni, ennél a feluhró ablaknál egy "igen" és egy "nem" opciónak kell lennie.
+- Grafikai elemek megtervezése és létrehozása
+- Felhasználói felület megtervezése és létrehozása
+- Pálya megtervezése és létrehozása
+- Pontozási rendszer megtervezése és létrehozása
+- Random pont generálás
+- Ellenség mozgásának létrehozása
+- Játék mechanikák elkészítése
+- ADatbázis megtervezése és adatázis kapcsolat létrehozása
 # Funckionális terv
 
 ## Rendszerszereplők:
