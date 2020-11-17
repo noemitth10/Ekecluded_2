@@ -28,3 +28,15 @@ A rendszer célja a szórakoztatás, amit egy a Unity játékmotor segítségév
 - Felhasználók megtekintése(Admin)
 - Adatbázis megtekintése(Ranglista)
 - Kilépés
+
+# Fizikai környezet
+A megrendelő által igényelt 3D Pac-Man játékot a Unity grafikus motor, illetve a Visual Studio segítségével valósítjuk meg, C# programozási nyelven. A fejlesztéseket Windows 10 operációs rendszeren végezzük, azonban a program több operációs rendszeren is futni fog.
+- Unity 2020.1.13
+- C# 8.0
+- Visual Studio 2019
+A rendszernek megfelően kell működnie a következő operációs rendszereken:
+- Microsoft Windows 7
+- Microsoft Windows 8
+- Microsoft Window 10
+- macOS
+
