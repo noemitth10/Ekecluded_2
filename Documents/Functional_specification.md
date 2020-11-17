@@ -20,6 +20,7 @@ Ajánlott fejlesztői környezet:
 # Jelenlegi üzleti folyamatok modellje
 A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta lehetőségeket. Jelenleg sokan csak 2D-s változatát ismerik. A mai grafikus motorokkal már 3D-s változatot is lehet készíteni mely nagy előrelépés lenne a felhasználók élményeinek javításában.
 # Igényelt üzleti folyamatok modellje
+![Üzleti folyamatok modellje](req_b_model.png)
 # Követelménylista
 ## Funkcionális:
 - Mozgatás megtervezése és létrehozása
