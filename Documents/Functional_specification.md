@@ -49,6 +49,7 @@ A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta
 
 # Használati esetek
 A felhasználók a jéték indítása után a főmenübe kerülnek, ahol több lehetőségük van, a legelső lehetőség a játék indítása ami után a felhasználónak egy nevet kell megadnia, ha a nev megadásra került akkor a játékmenet indításra kész. A főmenüben továbbá megnézhetjük a legjobb elért pontszámokat, ezt úgy tehetjük meg ha a Ranglista menüpontott választjuk, ezenfelül lehetőségünk van a kilépésre a Kilépés gomb használatával.
+![Használati esetek](Use_case.jpg)
 # Megfeleltetés
 Az alkalmazás elindítása után a főmenübe kerülnek a felhasználók, amelyben a felhasználók gombok segítségével tudnak majd navigálni, minden gomb lenyomása más-más eredményt fog vissza adni, mégpedig vagy elindítják a játékot vagy megnézik a ranglistát vagy pedig kilépnek az alkalmazásból.
 # Képernyőtervek
