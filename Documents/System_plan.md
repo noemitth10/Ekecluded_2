@@ -10,16 +10,17 @@ A Junior programozó feladata számítógépes szoftverek (programok) megtervez�
 ## Ütemterv
 |Funkció                | Feladat                                              | Prioritás | Becslés | Határidő    |
 |:---------------------:|:----------------------------------------------------:|:---------:|:-------:|:-----------:|
-|Grafikai elemek        | Karakterek, pálya elemek megtervezése és megalkotása | C         | 36 óra  | 2020.11.31. |
-|Felhasználói felület   | Felhasználói felület megtervezése és létrehozása     | B         | 24 óra  | 2020.11.31. |
-|Pálya                  | Pálya megtervezése                                   | A         | 12 óra  | 2020.11.31. |
-|Irányítás              | Irányítás megtervezése és megvalósítása              | A         | 24 óra  | 2020.11.31. |
-|Pontozási rendszer     | Pontozási rendszer megtervezése és megvalósítása     | B         | 12 óra  | 2020.11.31. |
-|Random pont generálás  | Random pont generálása képernyőre                    | A         | 6 óra   | 2020.11.31. |
-|Ellenség mozgása       | Ellenségek mozgásának megvalósítása                  | A         | 48 óra  | 2020.11.31. |
-|Játék mechanikák       | Játékmechanikák megtervezése és létrehozása          | A         | 72 óra  | 2020.11.31. |
-|Adatbázis megtervezése | Adatbázis megtervezése és létrehozása                | A         | 48 óra  | 2020.11.31. |
-|Adatbázis kapcsolat    | Adatbázis kapcsolat létrehozása a játékban           | A         | 6 óra   | 2020.11.31. |
+|Grafikai elemek        | Karakterek, pálya elemek megtervezése és megalkotása | C         | 36 óra  | 2020.11.26. |
+|Felhasználói felület   | Felhasználói felület megtervezése és létrehozása     | B         | 24 óra  | 2020.11.26. |
+|Pálya                  | Pálya megtervezése                                   | A         | 12 óra  | 2020.11.26. |
+|Irányítás              | Irányítás megtervezése és megvalósítása              | A         | 24 óra  | 2020.11.26. |
+|Pontozási rendszer     | Pontozási rendszer megtervezése és megvalósítása     | B         | 12 óra  | 2020.11.26. |
+|Random pont generálás  | Random pont generálása képernyőre                    | A         | 6 óra   | 2020.11.26. |
+|Ellenség mozgása       | Ellenségek mozgásának megvalósítása                  | A         | 48 óra  | 2020.11.26. |
+|Játék mechanikák       | Játékmechanikák megtervezése és létrehozása          | A         | 72 óra  | 2020.11.26. |
+|Adatbázis megtervezése | Adatbázis megtervezése és létrehozása                | A         | 48 óra  | 2020.11.26. |
+|Adatbázis kapcsolat    | Adatbázis kapcsolat létrehozása a játékban           | A         | 6 óra   | 2020.11.26. |
+
 A: Nagyon fontos
 B: Fontos
 C: Kevésbé fontos
