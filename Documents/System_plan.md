@@ -80,3 +80,5 @@ A rendszernek megfelően kell működnie a következő operációs rendszereken:
 - Microsoft Window 10
 - macOS
 
+#Adatbázis terv
+![Adatbázis terv](Database_plan.jpg)
