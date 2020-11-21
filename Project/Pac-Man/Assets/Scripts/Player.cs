@@ -11,7 +11,7 @@ public class Player : Entity
         get { return life; }
         set { life = value; }
     }
-
+    [SerializeField]
     private uint points;
 
     public uint Points

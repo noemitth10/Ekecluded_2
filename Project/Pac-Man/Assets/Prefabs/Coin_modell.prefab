@@ -220,3 +220,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
+  coin: {fileID: 4145564093064314985}
+  delay: 5
