@@ -51,7 +51,11 @@ A mai pac-man játékok nem használják ki a modern számítógépek nyújtotta
 A felhasználók a jéték indítása után a főmenübe kerülnek, ahol több lehetőségük van, a legelső lehetőség a játék indítása ami után a felhasználónak egy nevet kell megadnia, ha a nev megadásra került akkor a játékmenet indításra kész. A főmenüben továbbá megnézhetjük a legjobb elért pontszámokat, ezt úgy tehetjük meg ha a Ranglista menüpontott választjuk, ezenfelül lehetőségünk van a kilépésre a Kilépés gomb használatával.
 ![Használati esetek](Use_case.jpg)
 # Megfeleltetés
-Az alkalmazás elindítása után a főmenübe kerülnek a felhasználók, amelyben a felhasználók gombok segítségével tudnak majd navigálni, minden gomb lenyomása más-más eredményt fog vissza adni, mégpedig vagy elindítják a játékot vagy megnézik a ranglistát vagy pedig kilépnek az alkalmazásból.
+Az alkalmazás főmenüjében a felhasználók különböző gombok segítségével tudnak majd navigálni, minden gomblenyomási eventhez hozzá lesz kötve, hogy egy új menü pontot töltsön be a következő menüpontok közül: shop, játék, ranglista vagy kilépés. 
+A játék folyamán a játékosok pontokat kell, hogy gyüjtsenek, amely a pályán elhelyezett coinok segítségével fog történni, amint egy játékos áthalad a pályán elhelyezett coinok valamelyikén a pontok száma automatikusan fog nőni a pont számlálón, illetve a szert tesznek in-game valutára, amelyet majd a shopban tudnak elkölteni. 
+A shopban a felhasználók a játék során megszerzett valutából különböző kinézeti elemeket tudnak majd venni. Amint a felhasználó megvesz valamit a shopban, a kinézeti elem id-je hozzá lesz rendelve a felhasználóhoz és onnantól kezdve a felhasználó számára véglegesen elérhetővé fog vállni. 
+A ranglista a felhasználók álltal elért pontszámok listában rendezett rekordjait fogja számon tartani, a listából a saját vagy akár a mások álltal elért maximális pontszámot is meg tudják majd nézni. 
+A kilépés gomb megnyomásakor az alkalmazás automatikusan be fog záródni és menti ez eddig elért teljesítményt, illetve a shopban megvásárol kinézeti elemeket is.
 # Képernyőtervek
 # Forgató könyvek
 ## Főmenü:
