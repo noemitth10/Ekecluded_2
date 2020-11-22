@@ -57,6 +57,10 @@ A shopban a felhasználók a játék során megszerzett valutából különböz�
 A ranglista a felhasználók álltal elért pontszámok listában rendezett rekordjait fogja számon tartani, a listából a saját vagy akár a mások álltal elért maximális pontszámot is meg tudják majd nézni. 
 A kilépés gomb megnyomásakor az alkalmazás automatikusan be fog záródni és menti ez eddig elért teljesítményt, illetve a shopban megvásárol kinézeti elemeket is.
 # Képernyőtervek
+![Játék](game.png)
+![Fő menü](main_menu.png)
+![ranglista](leaderboard.png)
+![costumize](costumize.png)
 # Forgató könyvek
 ## Főmenü:
 A játék indítása után a főmenübe tölt a program, ahol a felhasználó választhat a játék indítása, ranglista, kilépés opciók közül. A játék indítása opció választása után a játék kezdetét veszi. Ranglista opció választása esetén megnezhetjük a tíz legjobb elért pontszámot. Kilépés opciót választva a program futása befejeződik.
