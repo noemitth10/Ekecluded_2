@@ -41,7 +41,26 @@ Fontos lenne, ha lenne egy igényesen elkészített főmenü, ami több opciót 
 - Játék mechanikák elkészítése
 - ADatbázis megtervezése és adatázis kapcsolat létrehozása
 # Funckionális terv
+##Szereplők:
+- Felhasználó
 
+##Alkalmazás használati esetek és lefutásaik:
+
+###Felhasználó:
+- Alkalmazás elindítása és futtatása
+- Adatok feltöltése az adatbázisba
+- Adatok megtekintése (ranglista)
+- Karakter változtatása (costumize)
+- Hangerő beállítása
+- Alkalmazás bezárása
+
+##Menü-hierarchiák:
+- Játék indítása
+- Ranglista
+- Costumize
+- Kilépés az alkalmazásból
+- Credits
+- Beállítások
 ## Rendszerszereplők:
 - Admin
 - Játékos
