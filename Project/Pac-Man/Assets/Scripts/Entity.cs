@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Entity : MonoBehaviour
 {
+    [SerializeField]
     private float moveSpeed;
 
     public float MoveSpeed
