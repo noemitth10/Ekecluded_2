@@ -13,4 +13,6 @@ public abstract class Item : MonoBehaviour
     }
 
     public abstract void OnTriggerEnter(Collider collider);
+   
+
 }

@@ -8,7 +8,9 @@ public class Coin : Item
     public GameObject coin;
     public int delay;
     private Vector3 Pos;
-
+    private Transform trans;
+    public GameObject manager;
+    public CoinPowerUpManager upManager;
     public override void OnTriggerEnter(Collider collider)
     {
         player.GetComponent<Player>().Points++;
@@ -19,21 +21,24 @@ public class Coin : Item
     {
         player = FindObjectOfType<Player>();
         Pos = coin.transform.position;
+        trans = coin.transform;
+        upManager = FindObjectOfType<CoinPowerUpManager>();
     }
 
     public void DestroyCoin()
     {
-        StartCoroutine(Respawn());
+
+        coin.SetActive(false);
+        Invoke("Respawn",5);
         //coin.SetActive(true);
         //Debug.Log("FASZ2");
     }
 
-    IEnumerator Respawn()
+    void Respawn()
     {
-        coin.SetActive(false);
-        yield return new WaitForSeconds(delay);
+        //Debug.Log("asd");
         coin.SetActive(true);
-        //Instantiate(coin, Pos, Quaternion.identity);
-        Debug.Log("FASZ");
+       
     }
+
 }
