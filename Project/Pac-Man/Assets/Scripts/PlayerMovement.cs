@@ -117,6 +117,14 @@ public class PlayerMovement : MonoBehaviour
             left = false;
         }
     }
-    
-    
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.GetComponent<Collider>().gameObject.CompareTag("Turningpoint"))
+        {
+            right = false;
+            left = false;
+        }
+    }
+
+
 }
