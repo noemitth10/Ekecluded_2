@@ -29,14 +29,14 @@ public class Coin : Item
     {
 
         coin.SetActive(false);
-        Invoke("Respawn",5);
+        Invoke("Respawn",50);
         //coin.SetActive(true);
-        //Debug.Log("FASZ2");
+    
     }
 
     void Respawn()
     {
-        //Debug.Log("asd");
+        
         coin.SetActive(true);
        
     }
