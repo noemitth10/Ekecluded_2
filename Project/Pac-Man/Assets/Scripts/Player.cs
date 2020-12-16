@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Player : Entity
 {
-    private byte life;
+    private byte life = 3;
 
     public byte Life
     {
