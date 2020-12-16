@@ -11,6 +11,7 @@ public class Ghost : Entity
     bool isWorking;
     Vector3 target;
     bool validPath;
+    public Player player;
 
     private void Start()
     {
@@ -56,5 +57,10 @@ public class Ghost : Entity
     {
         target = getNewRandomPosition();
         navMashAgent.SetDestination(target);
+    }
+
+    public void OnTriggerEnter(Collider collider)
+    {
+        player.GetComponent<Player>().Life--;
     }
 }
